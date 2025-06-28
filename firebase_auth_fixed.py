@@ -1,8 +1,8 @@
 # Firebase authentication fallback using REST API (no pyrebase needed)
 import requests
 
-FIREBASE_API_KEY = "AIzaSyAK1h69ldFXMBQQZOlkiXbBLkLECJodl6Y"
-FIREBASE_AUTH_URL = "https://identitytoolkit.googleapis.com/v1"
+FIREBASE_API_KEY = ""
+FIREBASE_AUTH_URL = ""
 
 
 def sign_up(email: str, password: str):
